@@ -1,0 +1,14 @@
+D:\transition_pract\HelloworldApp\bin\Debug\net10.0\HelloworldApp.exe
+D:\transition_pract\HelloworldApp\bin\Debug\net10.0\HelloworldApp.deps.json
+D:\transition_pract\HelloworldApp\bin\Debug\net10.0\HelloworldApp.runtimeconfig.json
+D:\transition_pract\HelloworldApp\bin\Debug\net10.0\HelloworldApp.dll
+D:\transition_pract\HelloworldApp\bin\Debug\net10.0\HelloworldApp.pdb
+D:\transition_pract\HelloworldApp\obj\Debug\net10.0\HelloworldApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\transition_pract\HelloworldApp\obj\Debug\net10.0\HelloworldApp.AssemblyInfoInputs.cache
+D:\transition_pract\HelloworldApp\obj\Debug\net10.0\HelloworldApp.AssemblyInfo.cs
+D:\transition_pract\HelloworldApp\obj\Debug\net10.0\HelloworldApp.csproj.CoreCompileInputs.cache
+D:\transition_pract\HelloworldApp\obj\Debug\net10.0\HelloworldApp.dll
+D:\transition_pract\HelloworldApp\obj\Debug\net10.0\refint\HelloworldApp.dll
+D:\transition_pract\HelloworldApp\obj\Debug\net10.0\HelloworldApp.pdb
+D:\transition_pract\HelloworldApp\obj\Debug\net10.0\HelloworldApp.genruntimeconfig.cache
+D:\transition_pract\HelloworldApp\obj\Debug\net10.0\ref\HelloworldApp.dll
